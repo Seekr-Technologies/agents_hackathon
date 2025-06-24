@@ -1,0 +1,27 @@
+# Record: 8e0b5504-4b64-4fde-9bba-c5c22ea5dfbd
+
+- **person_id**: 8e0b5504-4b64-4fde-9bba-c5c22ea5dfbd
+- **date_of_birth**: 1948-10-13
+- **age**: 76
+- **gender**: Male
+- **state**: NY
+- **marital_status**: Single
+- **employment_status**: Employed
+- **years_of_employment**: 24
+- **work_credits**: 30
+- **last_employer_type**: Private
+- **self_employed**: False
+- **occupation**: Mechanic
+- **yearly_income**: 161021.31
+- **taxed_medicare**: False
+- **ssa_withholdings**: True
+- **eligible_for_medicare**: True
+- **part_a_qualified**: False
+- **part_b_enrolled**: False
+- **dual_eligible_medicaid**: False
+- **disability_status**: False
+- **disability_type**: None
+- **enrollment_date**: 2020-07-16
+- **requires_documentation_review**: True
+- **missing_documents**: W-2
+- **application_status**: Denied

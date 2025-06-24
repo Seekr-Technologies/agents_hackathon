@@ -1,0 +1,27 @@
+# Record: 24b8801c-3ccf-4eca-a96e-6afab09f4aa5
+
+- **person_id**: 24b8801c-3ccf-4eca-a96e-6afab09f4aa5
+- **date_of_birth**: 1941-10-16
+- **age**: 83
+- **gender**: Male
+- **state**: CA
+- **marital_status**: Married
+- **employment_status**: Unemployed
+- **years_of_employment**: 41
+- **work_credits**: 23
+- **last_employer_type**: Federal
+- **self_employed**: False
+- **occupation**: None
+- **yearly_income**: 80346.89
+- **taxed_medicare**: True
+- **ssa_withholdings**: False
+- **eligible_for_medicare**: True
+- **part_a_qualified**: False
+- **part_b_enrolled**: False
+- **dual_eligible_medicaid**: False
+- **disability_status**: True
+- **disability_type**: None
+- **enrollment_date**: 2024-03-14
+- **requires_documentation_review**: True
+- **missing_documents**: SSA-1099
+- **application_status**: Denied

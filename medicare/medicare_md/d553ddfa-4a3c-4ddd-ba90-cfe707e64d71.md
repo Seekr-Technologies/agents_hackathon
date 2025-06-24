@@ -1,0 +1,27 @@
+# Record: d553ddfa-4a3c-4ddd-ba90-cfe707e64d71
+
+- **person_id**: d553ddfa-4a3c-4ddd-ba90-cfe707e64d71
+- **date_of_birth**: 1979-01-04
+- **age**: 46
+- **gender**: Other
+- **state**: FL
+- **marital_status**: Single
+- **employment_status**: Disabled
+- **years_of_employment**: 1
+- **work_credits**: 38
+- **last_employer_type**: Nonprofit
+- **self_employed**: False
+- **occupation**: None
+- **yearly_income**: 101998.42
+- **taxed_medicare**: True
+- **ssa_withholdings**: False
+- **eligible_for_medicare**: False
+- **part_a_qualified**: False
+- **part_b_enrolled**: False
+- **dual_eligible_medicaid**: False
+- **disability_status**: False
+- **disability_type**: None
+- **enrollment_date**: None
+- **requires_documentation_review**: True
+- **missing_documents**: None
+- **application_status**: Submitted

@@ -1,0 +1,27 @@
+# Record: 0a0d7af2-8e1a-4fdd-bc3a-bad6bf4d856a
+
+- **person_id**: 0a0d7af2-8e1a-4fdd-bc3a-bad6bf4d856a
+- **date_of_birth**: 1961-06-12
+- **age**: 64
+- **gender**: Female
+- **state**: NY
+- **marital_status**: Widowed
+- **employment_status**: Retired
+- **years_of_employment**: 22
+- **work_credits**: 26
+- **last_employer_type**: Federal
+- **self_employed**: False
+- **occupation**: Clerk
+- **yearly_income**: 13493.41
+- **taxed_medicare**: True
+- **ssa_withholdings**: False
+- **eligible_for_medicare**: True
+- **part_a_qualified**: False
+- **part_b_enrolled**: True
+- **dual_eligible_medicaid**: True
+- **disability_status**: True
+- **disability_type**: Physical
+- **enrollment_date**: 2020-04-16
+- **requires_documentation_review**: True
+- **missing_documents**: None
+- **application_status**: Submitted

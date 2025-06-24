@@ -1,0 +1,28 @@
+# Interview: f0f292db-afcd-4c36-ba8e-bed1fa71d0ef
+**Applicant ID:** APP_0150
+**Interviewer ID:** AGENT_4599
+**Country of Origin:** Eritrea
+**Interview Date:** 2025-06-08T17:48:25.501025
+**Interview Location:** Site-6
+**Interview Language:** Dari
+
+## Question & Responses
+
+**Q:** Why did you leave your country?
+**A:** I was forced to join the military. If I refused, I would have been killed.
+
+**Q:** What happened to you or your family?
+**A:** I was forced to join the military. If I refused, I would have been killed.
+
+**Q:** Do you fear returning to your country? Why?
+**A:** I was forced to join the military. If I refused, I would have been killed.
+
+**Q:** How did you travel to the United States?
+**A:** I was forced to join the military. If I refused, I would have been killed.
+
+**Q:** Do you have any documents or evidence of your claims?
+**A:** I was forced to join the military. If I refused, I would have been killed.
+
+- **Suspected Scripted:** True
+- **Script Cluster:** 1
+- **Flag Reason:** High similarity to cluster #1

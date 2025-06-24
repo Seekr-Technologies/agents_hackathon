@@ -1,0 +1,27 @@
+# Record: e05b4ea7-efcf-4367-b12b-7dfa794efaa1
+
+- **person_id**: e05b4ea7-efcf-4367-b12b-7dfa794efaa1
+- **date_of_birth**: 1997-12-06
+- **age**: 27
+- **gender**: Male
+- **state**: TX
+- **marital_status**: Married
+- **employment_status**: Disabled
+- **years_of_employment**: 35
+- **work_credits**: 19
+- **last_employer_type**: Federal
+- **self_employed**: False
+- **occupation**: Mechanic
+- **yearly_income**: 162285.9
+- **taxed_medicare**: False
+- **ssa_withholdings**: True
+- **eligible_for_medicare**: True
+- **part_a_qualified**: False
+- **part_b_enrolled**: False
+- **dual_eligible_medicaid**: True
+- **disability_status**: True
+- **disability_type**: None
+- **enrollment_date**: 2017-08-22
+- **requires_documentation_review**: True
+- **missing_documents**: None
+- **application_status**: Under Review

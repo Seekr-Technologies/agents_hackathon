@@ -1,0 +1,27 @@
+# Record: ec6e6dcc-aa18-4c2c-b7c6-1e08767dbcb2
+
+- **person_id**: ec6e6dcc-aa18-4c2c-b7c6-1e08767dbcb2
+- **date_of_birth**: 1999-10-15
+- **age**: 25
+- **gender**: Other
+- **state**: IL
+- **marital_status**: Single
+- **employment_status**: Retired
+- **years_of_employment**: 49
+- **work_credits**: 21
+- **last_employer_type**: Nonprofit
+- **self_employed**: True
+- **occupation**: Engineer
+- **yearly_income**: 77737.25
+- **taxed_medicare**: False
+- **ssa_withholdings**: False
+- **eligible_for_medicare**: True
+- **part_a_qualified**: False
+- **part_b_enrolled**: True
+- **dual_eligible_medicaid**: True
+- **disability_status**: True
+- **disability_type**: Physical
+- **enrollment_date**: 2023-07-24
+- **requires_documentation_review**: False
+- **missing_documents**: None
+- **application_status**: Under Review

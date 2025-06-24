@@ -1,0 +1,27 @@
+# Record: 40136fcd-d9e7-4bdc-b5fb-4a54b5ba7eef
+
+- **person_id**: 40136fcd-d9e7-4bdc-b5fb-4a54b5ba7eef
+- **date_of_birth**: 1962-04-14
+- **age**: 63
+- **gender**: Female
+- **state**: CA
+- **marital_status**: Divorced
+- **employment_status**: Employed
+- **years_of_employment**: 19
+- **work_credits**: 14
+- **last_employer_type**: Private
+- **self_employed**: False
+- **occupation**: Teacher
+- **yearly_income**: 117204.69
+- **taxed_medicare**: False
+- **ssa_withholdings**: True
+- **eligible_for_medicare**: True
+- **part_a_qualified**: False
+- **part_b_enrolled**: False
+- **dual_eligible_medicaid**: True
+- **disability_status**: True
+- **disability_type**: None
+- **enrollment_date**: 2018-08-28
+- **requires_documentation_review**: False
+- **missing_documents**: W-2
+- **application_status**: Approved

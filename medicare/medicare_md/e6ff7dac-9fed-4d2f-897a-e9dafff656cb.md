@@ -1,0 +1,27 @@
+# Record: e6ff7dac-9fed-4d2f-897a-e9dafff656cb
+
+- **person_id**: e6ff7dac-9fed-4d2f-897a-e9dafff656cb
+- **date_of_birth**: 1937-12-26
+- **age**: 87
+- **gender**: Female
+- **state**: IL
+- **marital_status**: Widowed
+- **employment_status**: Employed
+- **years_of_employment**: 45
+- **work_credits**: 2
+- **last_employer_type**: Federal
+- **self_employed**: False
+- **occupation**: Nurse
+- **yearly_income**: 39040.14
+- **taxed_medicare**: True
+- **ssa_withholdings**: False
+- **eligible_for_medicare**: True
+- **part_a_qualified**: False
+- **part_b_enrolled**: False
+- **dual_eligible_medicaid**: False
+- **disability_status**: True
+- **disability_type**: None
+- **enrollment_date**: 2020-01-28
+- **requires_documentation_review**: True
+- **missing_documents**: None
+- **application_status**: Under Review

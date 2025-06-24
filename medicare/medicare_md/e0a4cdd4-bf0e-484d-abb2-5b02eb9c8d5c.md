@@ -1,0 +1,27 @@
+# Record: e0a4cdd4-bf0e-484d-abb2-5b02eb9c8d5c
+
+- **person_id**: e0a4cdd4-bf0e-484d-abb2-5b02eb9c8d5c
+- **date_of_birth**: 1973-01-28
+- **age**: 52
+- **gender**: Other
+- **state**: GA
+- **marital_status**: Married
+- **employment_status**: Retired
+- **years_of_employment**: 37
+- **work_credits**: 21
+- **last_employer_type**: Federal
+- **self_employed**: False
+- **occupation**: Engineer
+- **yearly_income**: 145601.86
+- **taxed_medicare**: True
+- **ssa_withholdings**: True
+- **eligible_for_medicare**: True
+- **part_a_qualified**: False
+- **part_b_enrolled**: False
+- **dual_eligible_medicaid**: True
+- **disability_status**: True
+- **disability_type**: Mental
+- **enrollment_date**: 2024-10-28
+- **requires_documentation_review**: False
+- **missing_documents**: SSA-1099
+- **application_status**: Approved

@@ -1,0 +1,27 @@
+# Record: 1befa6ea-afc5-4987-b0a5-77b3a6c3eaf9
+
+- **person_id**: 1befa6ea-afc5-4987-b0a5-77b3a6c3eaf9
+- **date_of_birth**: 1997-05-14
+- **age**: 28
+- **gender**: Female
+- **state**: OH
+- **marital_status**: Widowed
+- **employment_status**: Disabled
+- **years_of_employment**: 37
+- **work_credits**: 29
+- **last_employer_type**: Private
+- **self_employed**: True
+- **occupation**: None
+- **yearly_income**: 95858.32
+- **taxed_medicare**: False
+- **ssa_withholdings**: False
+- **eligible_for_medicare**: True
+- **part_a_qualified**: False
+- **part_b_enrolled**: True
+- **dual_eligible_medicaid**: True
+- **disability_status**: True
+- **disability_type**: Physical
+- **enrollment_date**: 2025-01-02
+- **requires_documentation_review**: True
+- **missing_documents**: W-2
+- **application_status**: Denied

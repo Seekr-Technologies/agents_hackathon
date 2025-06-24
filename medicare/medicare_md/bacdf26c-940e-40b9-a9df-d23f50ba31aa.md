@@ -1,0 +1,27 @@
+# Record: bacdf26c-940e-40b9-a9df-d23f50ba31aa
+
+- **person_id**: bacdf26c-940e-40b9-a9df-d23f50ba31aa
+- **date_of_birth**: 2003-08-17
+- **age**: 21
+- **gender**: Female
+- **state**: FL
+- **marital_status**: Divorced
+- **employment_status**: Unemployed
+- **years_of_employment**: 22
+- **work_credits**: 34
+- **last_employer_type**: Private
+- **self_employed**: False
+- **occupation**: None
+- **yearly_income**: 122838.85
+- **taxed_medicare**: True
+- **ssa_withholdings**: False
+- **eligible_for_medicare**: False
+- **part_a_qualified**: False
+- **part_b_enrolled**: True
+- **dual_eligible_medicaid**: False
+- **disability_status**: True
+- **disability_type**: Mental
+- **enrollment_date**: None
+- **requires_documentation_review**: False
+- **missing_documents**: W-2
+- **application_status**: Submitted

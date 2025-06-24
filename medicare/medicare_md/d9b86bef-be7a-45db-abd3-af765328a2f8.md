@@ -1,0 +1,27 @@
+# Record: d9b86bef-be7a-45db-abd3-af765328a2f8
+
+- **person_id**: d9b86bef-be7a-45db-abd3-af765328a2f8
+- **date_of_birth**: 1963-06-03
+- **age**: 62
+- **gender**: Female
+- **state**: MI
+- **marital_status**: Widowed
+- **employment_status**: Disabled
+- **years_of_employment**: 21
+- **work_credits**: 19
+- **last_employer_type**: Federal
+- **self_employed**: False
+- **occupation**: Mechanic
+- **yearly_income**: 110794.4
+- **taxed_medicare**: True
+- **ssa_withholdings**: False
+- **eligible_for_medicare**: True
+- **part_a_qualified**: False
+- **part_b_enrolled**: False
+- **dual_eligible_medicaid**: True
+- **disability_status**: True
+- **disability_type**: Physical
+- **enrollment_date**: 2023-05-23
+- **requires_documentation_review**: True
+- **missing_documents**: W-2
+- **application_status**: Approved

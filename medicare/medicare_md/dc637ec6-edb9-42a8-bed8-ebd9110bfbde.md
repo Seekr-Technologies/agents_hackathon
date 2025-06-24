@@ -1,0 +1,27 @@
+# Record: dc637ec6-edb9-42a8-bed8-ebd9110bfbde
+
+- **person_id**: dc637ec6-edb9-42a8-bed8-ebd9110bfbde
+- **date_of_birth**: 1964-11-08
+- **age**: 60
+- **gender**: Male
+- **state**: TX
+- **marital_status**: Divorced
+- **employment_status**: Unemployed
+- **years_of_employment**: 20
+- **work_credits**: 25
+- **last_employer_type**: Nonprofit
+- **self_employed**: False
+- **occupation**: Teacher
+- **yearly_income**: 43576.26
+- **taxed_medicare**: False
+- **ssa_withholdings**: False
+- **eligible_for_medicare**: False
+- **part_a_qualified**: False
+- **part_b_enrolled**: False
+- **dual_eligible_medicaid**: True
+- **disability_status**: False
+- **disability_type**: None
+- **enrollment_date**: None
+- **requires_documentation_review**: False
+- **missing_documents**: W-2
+- **application_status**: Denied

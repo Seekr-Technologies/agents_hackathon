@@ -1,0 +1,27 @@
+# Record: 773b2a8f-33d1-43ce-ae63-dcfd1b2cf3eb
+
+- **person_id**: 773b2a8f-33d1-43ce-ae63-dcfd1b2cf3eb
+- **date_of_birth**: 1977-03-21
+- **age**: 48
+- **gender**: Male
+- **state**: CA
+- **marital_status**: Divorced
+- **employment_status**: Employed
+- **years_of_employment**: 1
+- **work_credits**: 27
+- **last_employer_type**: Nonprofit
+- **self_employed**: True
+- **occupation**: None
+- **yearly_income**: 167390.55
+- **taxed_medicare**: True
+- **ssa_withholdings**: False
+- **eligible_for_medicare**: False
+- **part_a_qualified**: False
+- **part_b_enrolled**: True
+- **dual_eligible_medicaid**: True
+- **disability_status**: False
+- **disability_type**: None
+- **enrollment_date**: None
+- **requires_documentation_review**: True
+- **missing_documents**: SSA-1099
+- **application_status**: Approved

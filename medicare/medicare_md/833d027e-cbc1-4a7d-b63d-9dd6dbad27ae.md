@@ -1,0 +1,27 @@
+# Record: 833d027e-cbc1-4a7d-b63d-9dd6dbad27ae
+
+- **person_id**: 833d027e-cbc1-4a7d-b63d-9dd6dbad27ae
+- **date_of_birth**: 2005-09-01
+- **age**: 19
+- **gender**: Other
+- **state**: TX
+- **marital_status**: Single
+- **employment_status**: Disabled
+- **years_of_employment**: 36
+- **work_credits**: 36
+- **last_employer_type**: Nonprofit
+- **self_employed**: False
+- **occupation**: None
+- **yearly_income**: 105720.33
+- **taxed_medicare**: True
+- **ssa_withholdings**: False
+- **eligible_for_medicare**: False
+- **part_a_qualified**: False
+- **part_b_enrolled**: True
+- **dual_eligible_medicaid**: False
+- **disability_status**: False
+- **disability_type**: None
+- **enrollment_date**: None
+- **requires_documentation_review**: False
+- **missing_documents**: None
+- **application_status**: Denied

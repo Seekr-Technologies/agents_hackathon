@@ -1,0 +1,27 @@
+# Record: b7b8eae4-b3fa-41ef-8955-c34aa3fdeb2c
+
+- **person_id**: b7b8eae4-b3fa-41ef-8955-c34aa3fdeb2c
+- **date_of_birth**: 1956-08-26
+- **age**: 68
+- **gender**: Other
+- **state**: FL
+- **marital_status**: Divorced
+- **employment_status**: Retired
+- **years_of_employment**: 18
+- **work_credits**: 11
+- **last_employer_type**: Federal
+- **self_employed**: False
+- **occupation**: Engineer
+- **yearly_income**: 55579.5
+- **taxed_medicare**: True
+- **ssa_withholdings**: True
+- **eligible_for_medicare**: True
+- **part_a_qualified**: False
+- **part_b_enrolled**: False
+- **dual_eligible_medicaid**: True
+- **disability_status**: True
+- **disability_type**: Mental
+- **enrollment_date**: 2017-02-04
+- **requires_documentation_review**: True
+- **missing_documents**: W-2
+- **application_status**: Denied

@@ -1,0 +1,27 @@
+# Record: bcfacfb6-0ef4-4c71-983b-9cdffb5c1770
+
+- **person_id**: bcfacfb6-0ef4-4c71-983b-9cdffb5c1770
+- **date_of_birth**: 1950-08-02
+- **age**: 74
+- **gender**: Male
+- **state**: MI
+- **marital_status**: Divorced
+- **employment_status**: Unemployed
+- **years_of_employment**: 27
+- **work_credits**: 9
+- **last_employer_type**: Nonprofit
+- **self_employed**: True
+- **occupation**: Mechanic
+- **yearly_income**: 122349.05
+- **taxed_medicare**: False
+- **ssa_withholdings**: True
+- **eligible_for_medicare**: True
+- **part_a_qualified**: False
+- **part_b_enrolled**: True
+- **dual_eligible_medicaid**: False
+- **disability_status**: True
+- **disability_type**: Mental
+- **enrollment_date**: 2019-04-02
+- **requires_documentation_review**: True
+- **missing_documents**: W-2
+- **application_status**: Under Review
