@@ -1,0 +1,23 @@
+# Record: 3caba4f8-dcb4-48c5-abd0-2bc2c89b0ee0
+
+- **sensor_id**: 3caba4f8-dcb4-48c5-abd0-2bc2c89b0ee0
+- **location**: Zone-5
+- **timestamp**: 2025-05-16T23:10:23.228865
+- **pH**: 7.86
+- **turbidity**: 9.77
+- **chlorine_residual**: 1.66
+- **conductivity**: 645.0
+- **temperature_C**: 18.2
+- **dissolved_oxygen**: 9.59
+- **total_dissolved_solids**: 799.5
+- **nitrate**: 6.5
+- **lead**: 6.74
+- **copper**: 396.6
+- **coliform_bacteria**: 2
+- **flow_rate**: 700.66
+- **pressure_psi**: 27.3
+- **pump_status**: 0
+- **valve_open_percent**: 59.8
+- **tank_level_m**: 4.24
+- **energy_usage_kWh**: 807.7
+- **event_type**: contamination

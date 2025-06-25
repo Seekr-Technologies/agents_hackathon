@@ -1,0 +1,23 @@
+# Record: b7fc2fec-404f-4f49-8d73-91cbe0ad3baa
+
+- **sensor_id**: b7fc2fec-404f-4f49-8d73-91cbe0ad3baa
+- **location**: Zone-3
+- **timestamp**: 2025-05-23T13:21:23.224465
+- **pH**: 7.62
+- **turbidity**: 8.96
+- **chlorine_residual**: 2.12
+- **conductivity**: 1156.0
+- **temperature_C**: 13.2
+- **dissolved_oxygen**: 5.28
+- **total_dissolved_solids**: 290.9
+- **nitrate**: 7.31
+- **lead**: 6.58
+- **copper**: 613.5
+- **coliform_bacteria**: 0
+- **flow_rate**: 92.76
+- **pressure_psi**: 30.8
+- **pump_status**: 0
+- **valve_open_percent**: 66.8
+- **tank_level_m**: 8.58
+- **energy_usage_kWh**: 448.9
+- **event_type**: normal

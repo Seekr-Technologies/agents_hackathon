@@ -1,0 +1,23 @@
+# Record: dffdf13e-6ea5-41ca-8223-bc00faf01a8a
+
+- **sensor_id**: dffdf13e-6ea5-41ca-8223-bc00faf01a8a
+- **location**: Zone-8
+- **timestamp**: 2025-06-05T10:16:23.230933
+- **pH**: 7.37
+- **turbidity**: 1.14
+- **chlorine_residual**: 0.83
+- **conductivity**: 56.5
+- **temperature_C**: 12.6
+- **dissolved_oxygen**: 8.85
+- **total_dissolved_solids**: 315.6
+- **nitrate**: 5.06
+- **lead**: 11.0
+- **copper**: 909.1
+- **coliform_bacteria**: 0
+- **flow_rate**: 87.06
+- **pressure_psi**: 41.8
+- **pump_status**: 1
+- **valve_open_percent**: 39.3
+- **tank_level_m**: 5.96
+- **energy_usage_kWh**: 173.5
+- **event_type**: normal

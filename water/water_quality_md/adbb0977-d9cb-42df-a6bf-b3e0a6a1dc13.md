@@ -1,0 +1,23 @@
+# Record: adbb0977-d9cb-42df-a6bf-b3e0a6a1dc13
+
+- **sensor_id**: adbb0977-d9cb-42df-a6bf-b3e0a6a1dc13
+- **location**: Zone-5
+- **timestamp**: 2025-06-12T22:32:23.247879
+- **pH**: 6.79
+- **turbidity**: 8.41
+- **chlorine_residual**: 0.88
+- **conductivity**: 376.5
+- **temperature_C**: 6.8
+- **dissolved_oxygen**: 6.56
+- **total_dissolved_solids**: 589.6
+- **nitrate**: 3.44
+- **lead**: 0.15
+- **copper**: 770.3
+- **coliform_bacteria**: 3
+- **flow_rate**: 772.51
+- **pressure_psi**: 45.8
+- **pump_status**: 0
+- **valve_open_percent**: 6.3
+- **tank_level_m**: 1.85
+- **energy_usage_kWh**: 364.0
+- **event_type**: normal

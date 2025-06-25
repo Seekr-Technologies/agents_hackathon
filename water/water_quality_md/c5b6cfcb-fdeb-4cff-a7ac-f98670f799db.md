@@ -1,0 +1,23 @@
+# Record: c5b6cfcb-fdeb-4cff-a7ac-f98670f799db
+
+- **sensor_id**: c5b6cfcb-fdeb-4cff-a7ac-f98670f799db
+- **location**: Zone-6
+- **timestamp**: 2025-05-20T01:45:23.229180
+- **pH**: 7.98
+- **turbidity**: 0.12
+- **chlorine_residual**: 1.88
+- **conductivity**: 1192.8
+- **temperature_C**: 20.6
+- **dissolved_oxygen**: 6.33
+- **total_dissolved_solids**: 818.5
+- **nitrate**: 6.35
+- **lead**: 9.14
+- **copper**: 391.0
+- **coliform_bacteria**: 3
+- **flow_rate**: 651.69
+- **pressure_psi**: 54.7
+- **pump_status**: 0
+- **valve_open_percent**: 87.1
+- **tank_level_m**: 6.99
+- **energy_usage_kWh**: 969.5
+- **event_type**: normal

@@ -1,0 +1,23 @@
+# Record: 1f93c253-27ce-4ace-8cab-ffa6ee02e0ee
+
+- **sensor_id**: 1f93c253-27ce-4ace-8cab-ffa6ee02e0ee
+- **location**: Zone-10
+- **timestamp**: 2025-05-31T04:57:23.220824
+- **pH**: 7.42
+- **turbidity**: 5.43
+- **chlorine_residual**: 0.42
+- **conductivity**: 473.9
+- **temperature_C**: 19.6
+- **dissolved_oxygen**: 7.26
+- **total_dissolved_solids**: 747.7
+- **nitrate**: 0.11
+- **lead**: 16.02
+- **copper**: 471.1
+- **coliform_bacteria**: 1
+- **flow_rate**: 737.67
+- **pressure_psi**: 53.7
+- **pump_status**: 1
+- **valve_open_percent**: 45.9
+- **tank_level_m**: 4.97
+- **energy_usage_kWh**: 260.1
+- **event_type**: normal
