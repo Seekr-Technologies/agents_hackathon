@@ -1,0 +1,25 @@
+# Record: record_209
+
+- **tracking_number**: 9400117513290340
+- **label_id**: d99f6bea-e97c-4563-9a04-f19055da8cf7
+- **shipper_account_id**: ACCT_99339848
+- **label_created_date**: 2025-06-04T17:44:42.294501
+- **label_origin_ip**: 192.168.7.145
+- **label_origin_location**: 10001
+- **return_address_zip**: 10001
+- **is_return_address_us_based**: True
+- **discount_applied**: True
+- **scan_events**: [{'timestamp': '2025-06-04T23:44:42.294501', 'facility_id': 'DIST_CENTER_45', 'event_type': 'INBOUND', 'location_zip': '10001'}, {'timestamp': '2025-06-05T03:44:42.294501', 'facility_id': 'DIST_CENTER_56', 'event_type': 'INBOUND', 'location_zip': '10189'}, {'timestamp': '2025-06-05T05:44:42.294501', 'facility_id': 'DIST_CENTER_48', 'event_type': 'DEPARTURE', 'location_zip': '10195'}]
+- **delivery_status**: Delivered
+- **delivery_timestamp**: 2025-06-07T17:44:42.294501
+- **delivery_zip**: 90001
+- **delivery_address_valid**: True
+- **is_fraudulent**: False
+- **fraud_type**: Normal
+- **fraud_detected_at**: None
+- **reported_by**: None
+- **num_scans**: 3
+- **label_ip_geolocation_match**: True
+- **account_fraud_history_score**: 0.3
+- **cross_border_origin**: False
+- **label_print_device_id**: EDGE_NODE_55

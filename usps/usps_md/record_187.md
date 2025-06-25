@@ -1,0 +1,25 @@
+# Record: record_187
+
+- **tracking_number**: 9400121839598348
+- **label_id**: 7d0892aa-9431-46f8-af6d-4453b79c2af7
+- **shipper_account_id**: ACCT_75431063
+- **label_created_date**: 2025-05-24T17:44:42.292085
+- **label_origin_ip**: 192.168.57.226
+- **label_origin_location**: 10001
+- **return_address_zip**: 10001
+- **is_return_address_us_based**: True
+- **discount_applied**: True
+- **scan_events**: [{'timestamp': '2025-05-24T20:44:42.292085', 'facility_id': 'DIST_CENTER_17', 'event_type': 'OUTBOUND', 'location_zip': '10084'}, {'timestamp': '2025-05-24T23:44:42.292085', 'facility_id': 'DIST_CENTER_50', 'event_type': 'INBOUND', 'location_zip': '10160'}, {'timestamp': '2025-05-25T07:44:42.292085', 'facility_id': 'DIST_CENTER_18', 'event_type': 'ARRIVAL', 'location_zip': '10186'}, {'timestamp': '2025-05-25T10:44:42.292085', 'facility_id': 'DIST_CENTER_29', 'event_type': 'OUTBOUND', 'location_zip': '10102'}, {'timestamp': '2025-05-25T13:44:42.292085', 'facility_id': 'DIST_CENTER_73', 'event_type': 'ARRIVAL', 'location_zip': '10074'}]
+- **delivery_status**: Delivered
+- **delivery_timestamp**: 2025-05-29T17:44:42.292085
+- **delivery_zip**: 90001
+- **delivery_address_valid**: True
+- **is_fraudulent**: False
+- **fraud_type**: Normal
+- **fraud_detected_at**: None
+- **reported_by**: None
+- **num_scans**: 5
+- **label_ip_geolocation_match**: True
+- **account_fraud_history_score**: 0.18
+- **cross_border_origin**: False
+- **label_print_device_id**: EDGE_NODE_17
